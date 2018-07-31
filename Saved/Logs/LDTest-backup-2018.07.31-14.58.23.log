@@ -1,0 +1,740 @@
+﻿Log file open, 07/31/18 11:38:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LDTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189459
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.101s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: AMD Radeon (TM) R7 370 Series
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.31-09.38.56:832][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.31-09.38.56:832][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.31-09.38.56:850][  0]LogHAL: Display: Platform has ~ 16 GB [17093447680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.07.31-09.38.56:850][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.07.31-09.38.56:850][  0]LogInit: Going up to parent DeviceProfile []
+[2018.07.31-09.38.56:851][  0]LogInit: Computer: DESKTOP-PPOIMAL
+[2018.07.31-09.38.56:851][  0]LogInit: User: Maxime
+[2018.07.31-09.38.56:851][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.31-09.38.56:851][  0]LogInit: High frequency timer resolution =3.117187 MHz
+[2018.07.31-09.38.56:851][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.31-09.38.56:851][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.31-09.38.56:851][  0]LogMemory: Process Physical Memory: 100.61 MB used, 100.61 MB peak
+[2018.07.31-09.38.56:851][  0]LogMemory: Process Virtual Memory: 84.37 MB used, 84.37 MB peak
+[2018.07.31-09.38.56:851][  0]LogMemory: Physical Memory: 8776.75 MB used,  7524.84 MB free, 16301.58 MB total
+[2018.07.31-09.38.56:851][  0]LogMemory: Virtual Memory: 4623.95 MB used,  7524.84 MB free, 134217728.00 MB total
+[2018.07.31-09.38.56:887][  0]LogInit: Using OS detected language (fr-FR).
+[2018.07.31-09.38.56:887][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.07.31-09.38.56:888][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.07.31-09.38.56:889][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.07.31-09.38.56:889][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.31-09.38.56:926][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.31-09.38.56:926][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.31-09.38.57:097][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.31-09.38.57:097][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.31-09.38.57:112][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R7 370 Series' (Feature Level 11_0)
+[2018.07.31-09.38.57:112][  0]LogD3D11RHI:       4077/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.07.31-09.38.57:114][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.31-09.38.57:114][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.31-09.38.57:114][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.31-09.38.57:120][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.31-09.38.57:120][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.31-09.38.57:120][  0]LogWindows: EnumDisplayDevices:
+[2018.07.31-09.38.57:120][  0]LogWindows:    0. 'AMD Radeon (TM) R7 370 Series' (P:1 D:1)
+[2018.07.31-09.38.57:120][  0]LogWindows:    1. 'AMD Radeon (TM) R7 370 Series' (P:0 D:1)
+[2018.07.31-09.38.57:121][  0]LogWindows:    2. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.07.31-09.38.57:121][  0]LogWindows:    3. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.07.31-09.38.57:121][  0]LogWindows:    4. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.07.31-09.38.57:122][  0]LogWindows:    5. 'AMD Radeon (TM) R7 370 Series' (P:0 D:0)
+[2018.07.31-09.38.57:122][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.07.31-09.38.57:122][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 370 Series
+[2018.07.31-09.38.57:122][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:21.19.137.514, unified:21.19.137.514)
+[2018.07.31-09.38.57:122][  0]LogD3D11RHI:      Driver Date: 11-21-2016
+[2018.07.31-09.38.57:122][  0]LogRHI: Texture pool is 2854 MB (70% of 4077 MB)
+[2018.07.31-09.38.57:167][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.31-09.38.57:177][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.07.31-09.38.57:178][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/Maxime/Documents/GitHub/LDTest/Intermediate/Shaders/WorkingDirectory/9952/).
+[2018.07.31-09.38.57:178][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maxime/AppData/Local/Temp/UnrealShaderWorkingDir/CB60C2664702B3056CA5AAA31FAADEA7/'.
+[2018.07.31-09.38.57:431][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.31-09.38.57:444][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.31-09.38.57:457][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.31-09.38.57:471][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.31-09.38.57:485][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.31-09.38.57:499][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.31-09.38.57:512][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.31-09.38.57:526][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.31-09.38.57:533][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.31-09.38.57:618][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:619][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.31-09.38.57:620][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.31-09.38.57:681][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.31-09.38.57:681][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.31-09.38.57:705][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.31-09.38.57:705][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.31-09.38.57:717][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.31-09.38.57:729][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.31-09.38.57:742][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.31-09.38.57:754][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.31-09.38.57:763][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.07.31-09.38.57:764][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.31-09.38.57:822][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.31-09.38.57:822][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.31-09.38.57:822][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.31-09.38.58:545][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.31-09.38.58:597][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Maxime/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.31-09.38.58:598][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maxime/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.07.31-09.38.58:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Maxime/Documents/GitHub/LDTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.31-09.38.58:598][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.31-09.38.58:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Maxime/Documents/GitHub/LDTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.31-09.38.58:598][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.31-09.38.58:611][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.31-09.38.58:623][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maxime/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.31-09.38.58:623][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.31-09.38.58:623][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.31-09.38.58:642][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.31-09.38.58:643][  0]LogSlate: Using FreeType 2.6.0
+[2018.07.31-09.38.58:643][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.31-09.38.58:713][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.07.31-09.38.59:020][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.31-09.38.59:151][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.31-09.38.59:154][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.31-09.38.59:154][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.07.31-09.38.59:154][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.31-09.38.59:154][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.31-09.38.59:174][  0]LogNetVersion: LDTest 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2886776556)
+[2018.07.31-09.38.59:693][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.115997 seconds
+[2018.07.31-09.38.59:700][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.07.31-09.38.59:700][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.07.31-09.38.59:700][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.31-09.39.00:507][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.31-09.39.00:520][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.31-09.39.00:659][  0]SourceControl: Source control is disabled
+[2018.07.31-09.39.00:659][  0]SourceControl: Source control is disabled
+[2018.07.31-09.39.00:660][  0]SourceControl: Source control is disabled
+[2018.07.31-09.39.00:661][  0]SourceControl: Source control is disabled
+[2018.07.31-09.39.00:827][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.31-09.39.00:910][  0]LogOcInput: OculusInput pre-init called
+[2018.07.31-09.39.00:968][  0]LogEngine: Initializing Engine...
+[2018.07.31-09.39.00:969][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.31-09.39.00:970][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.31-09.39.00:970][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.31-09.39.00:970][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.31-09.39.00:970][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.31-09.39.01:174][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.07.31-09.39.01:187][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.31-09.39.01:204][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-09.39.01:218][  0]LogInit: FAudioDevice initialized.
+[2018.07.31-09.39.01:219][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.07.31-09.39.01:294][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Maxime/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.31-09.39.01:297][  0]LogInit: Texture streaming: Enabled
+[2018.07.31-09.39.01:312][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.31-09.39.01:323][  0]LogInit: Transaction tracking system initialized
+[2018.07.31-09.39.01:342][  0]BlueprintLog: New page: Editor Load
+[2018.07.31-09.39.01:409][  0]LocalizationService: Localization service is disabled
+[2018.07.31-09.39.01:657][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.31-09.39.01:657][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.31-09.39.01:657][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.31-09.39.01:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.31-09.39.01:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.31-09.39.01:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.31-09.39.01:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.31-09.39.01:758][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/LDTest/Content/' took 0.02s
+[2018.07.31-09.39.01:758][  0]SourceControl: Source control is disabled
+[2018.07.31-09.39.01:758][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.31-09.39.01:764][  0]LightingResults: New page: Lighting Build
+[2018.07.31-09.39.01:766][  0]MapCheck: New page: Map Check
+[2018.07.31-09.39.01:766][  0]LightingResults: New page: Lighting Build
+[2018.07.31-09.39.02:249][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.31-09.39.02:262][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.31-09.39.02:286][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.31-09.39.02:345][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58,546ms to complete.
+[2018.07.31-09.39.02:345][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.586
+[2018.07.31-09.39.02:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-09.39.02:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-09.39.02:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-09.39.02:502][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-09.39.02:512][  0]LogCollectionManager: Loaded 0 collections in 0.001476 seconds
+[2018.07.31-09.39.02:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/LDTest/Saved/Collections/' took 0.01s
+[2018.07.31-09.39.02:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/LDTest/Content/Developers/Maxime/Collections/' took 0.01s
+[2018.07.31-09.39.02:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maxime/Documents/GitHub/LDTest/Content/Collections/' took 0.01s
+[2018.07.31-09.39.02:559][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.31-09.39.02:567][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2572 classes and 603 folders.
+[2018.07.31-09.39.02:573][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.31-09.39.02:976][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.31-09.39.02:994][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.31-09.39.03:039][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.31-09.39.03:039][  0]LogLoad: (Engine Initialization) Total time: 7.55 seconds
+[2018.07.31-09.39.03:039][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.31-09.39.03:049][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.31-09.39.03:069][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.07.31-09.39.03:070][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.31-09.39.03:072][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.31-09.39.03:083][  0]LogSlate: Took 0.006861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.31-09.39.03:209][  0]LogSlate: Took 0.005465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.31-09.39.03:292][  1]LogRenderer: Reallocating scene render targets to support 872x476 Format 10 NumSamples 1 (Frame:1).
+[2018.07.31-09.39.03:309][  1]LogAssetRegistry: Asset discovery search completed in 4.6183 seconds
+[2018.07.31-09.39.03:311][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.31-09.39.03:311][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.07.31-09.39.05:638][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-09.39.07:260][460]Cmd: MAP LOAD FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.31-09.39.07:267][460]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.31-09.39.07:274][460]LightingResults: New page: Lighting Build
+[2018.07.31-09.39.07:274][460]LoadErrors: New page: Loading map: Construction.umap
+[2018.07.31-09.39.07:275][460]MapCheck: New page: Map Check
+[2018.07.31-09.39.07:276][460]LightingResults: New page: Lighting Build
+[2018.07.31-09.39.07:461][460]LogAIModule: Creating AISystem for world Construction
+[2018.07.31-09.39.07:482][460]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.31-09.39.07:536][460]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.31-09.39.07:599][460]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63,063ms to complete.
+[2018.07.31-09.39.07:599][460]LogFileHelpers: Loading map 'Construction' took 0.340
+[2018.07.31-09.39.07:600][460]LogSlate: Window 'Open Level' being destroyed
+[2018.07.31-09.39.34:754][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.39.34:846][494]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.31-09.39.34:862][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-09.39.34:862][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-09.39.34:875][494]PIE: New page: PIE session: Construction (31 juil. 2018 13:39:34)
+[2018.07.31-09.39.34:875][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Construction
+[2018.07.31-09.39.34:927][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051986s)
+[2018.07.31-09.39.34:928][494]LogAIModule: Creating AISystem for world Construction
+[2018.07.31-09.39.34:928][494]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.07.31-09.39.34:928][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Construction.Construction to /Game/Levels/UEDPIE_0_Construction.Construction (0.052961s)
+[2018.07.31-09.39.34:960][494]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-09.39.34:971][494]LogInit: FAudioDevice initialized.
+[2018.07.31-09.39.35:019][494]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-09.39.35:027][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Construction.Construction up for play (max tick rate 0) at 2018.07.31-11.39.35
+[2018.07.31-09.39.35:028][494]LogWorld: Bringing up level for play took: 0.007310
+[2018.07.31-09.39.35:045][494]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.07.31-09.39.35:047][494]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Construction 0,753
+[2018.07.31-09.39.35:047][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-09.39.52:949][636]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-09.39.52:949][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-09.39.52:984][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.31-09.39.52:985][636]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-09.39.53:010][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-09.39.53:054][640]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.07.31-09.40.00:349][450]Cmd: EDCALLBACK SURFPROPS
+[2018.07.31-09.40.10:283][631]Cmd: EDCALLBACK SURFPROPS
+[2018.07.31-09.40.12:836][920]Cmd: EDCALLBACK SURFPROPS
+[2018.07.31-09.40.15:327][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.40.39:845][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.41.02:480][506]Cmd: EDCALLBACK SURFPROPS
+[2018.07.31-09.41.03:399][606]Cmd: EDCALLBACK SURFPROPS
+[2018.07.31-09.41.05:174][802]Cmd: EDCALLBACK SURFPROPS
+[2018.07.31-09.41.07:426][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.41.26:591][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.41.59:772][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.42.21:832][418]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2018.07.31-09.42.24:080][683]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush5)
+[2018.07.31-09.42.45:751][238]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush52)
+[2018.07.31-09.43.00:172][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2018.07.31-09.43.02:250][200]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2018.07.31-09.43.06:990][764]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2018.07.31-09.43.17:047][963]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2018.07.31-09.44.15:489][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.49.26:171][862]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_Auto15C5FC86B4A4D3CC2130C3AAA2B110F76.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Autosaves/Game/Levels/Construction_Auto1.umap'
+[2018.07.31-09.49.26:182][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Construction' took 0.681
+[2018.07.31-09.49.26:182][862]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.681
+[2018.07.31-09.58.19:388][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-09.58.19:394][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-09.58.20:010][281]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/ConstructionFC093A954B70024E13A448B54FDE315B.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-09.58.20:054][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-09.58.20:090][281]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataEA4C7A494DB1494C5EFB2A9CE7D630B8.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-09.58.25:401][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-09.58.44:147][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-09.58.44:152][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-09.58.44:695][ 88]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/ConstructionE6EDDC2B44299FEC89FADC99152D09A7.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-09.58.44:732][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-09.58.44:755][ 88]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataD99A15F14C83CD69E5A80B9506ACC8D2.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-09.58.56:570][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-10.00.07:305][ 33]LogRenderer: Reallocating scene render targets to support 1316x732 Format 10 NumSamples 1 (Frame:39812).
+[2018.07.31-10.23.28:622][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.13.27:166][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.14.21:634][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.16.04:387][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.16.28:891][669]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_Auto2CDB4D1F443F3694EC794CD88E285FBEE.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Autosaves/Game/Levels/Construction_Auto2.umap'
+[2018.07.31-12.16.28:906][669]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Construction' took 0.627
+[2018.07.31-12.16.28:906][669]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.627
+[2018.07.31-12.18.58:960][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.19.19:619][ 77]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.19.50:370][679]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush13)
+[2018.07.31-12.20.19:722][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.20.35:068][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.21.49:037][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.21.49:042][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.21.49:713][ 93]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/ConstructionF37706944B88F29BC639908741896D7E.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.21.49:759][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.21.49:794][ 93]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData0E8206D9437E0131C778C2B6735D5910.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.21.51:937][348]LogEditorViewport: Clicking Background
+[2018.07.31-12.21.55:390][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.21.55:449][766]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.31-12.21.55:465][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.21.55:465][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-12.21.55:466][766]PIE: New page: PIE session: Construction (31 juil. 2018 16:21:55)
+[2018.07.31-12.21.55:466][766]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Construction
+[2018.07.31-12.21.55:527][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061129s)
+[2018.07.31-12.21.55:529][766]LogAIModule: Creating AISystem for world Construction
+[2018.07.31-12.21.55:529][766]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2018.07.31-12.21.55:529][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Construction.Construction to /Game/Levels/UEDPIE_0_Construction.Construction (0.063253s)
+[2018.07.31-12.21.55:568][766]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-12.21.55:583][766]LogInit: FAudioDevice initialized.
+[2018.07.31-12.21.55:617][766]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-12.21.55:626][766]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Construction.Construction up for play (max tick rate 0) at 2018.07.31-14.21.55
+[2018.07.31-12.21.55:627][766]LogWorld: Bringing up level for play took: 0.008826
+[2018.07.31-12.21.55:642][766]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Construction -0,653
+[2018.07.31-12.21.55:642][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.22.12:328][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.22.12:328][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-12.22.12:372][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.31-12.22.12:373][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.22.12:417][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-12.22.12:443][715]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.07.31-12.22.13:293][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.22.55:927][583]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.23.05:579][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.23.11:322][380]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.23.17:524][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.31-12.23.20:477][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.31-12.23.21:564][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.23.36:915][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.23.41:675][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.23.42:288][511]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction52109BB84D33B339543C4FB7CE548BDF.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.23.42:320][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.23.42:345][511]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataD0CB04924E90E604DFDB4199AAC9A83D.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.24.51:373][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.25.07:586][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2018.07.31-12.25.09:260][612]LogSlate: Took 0.005509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.31-12.25.10:004][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.25.13:163][ 76]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.31-12.25.14:744][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.25.14:818][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.31-12.25.14:834][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.25.14:834][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-12.25.14:834][271]PIE: New page: PIE session: Construction (31 juil. 2018 16:25:14)
+[2018.07.31-12.25.14:835][271]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Construction
+[2018.07.31-12.25.14:891][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056062s)
+[2018.07.31-12.25.14:891][271]LogAIModule: Creating AISystem for world Construction
+[2018.07.31-12.25.14:892][271]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.07.31-12.25.14:892][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Construction.Construction to /Game/Levels/UEDPIE_0_Construction.Construction (0.057063s)
+[2018.07.31-12.25.14:924][271]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-12.25.14:937][271]LogInit: FAudioDevice initialized.
+[2018.07.31-12.25.14:968][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-12.25.14:976][271]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Construction.Construction up for play (max tick rate 0) at 2018.07.31-14.25.14
+[2018.07.31-12.25.14:976][271]LogWorld: Bringing up level for play took: 0.007218
+[2018.07.31-12.25.14:990][271]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Construction 0,695
+[2018.07.31-12.25.14:990][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.25.27:288][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.25.27:288][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-12.25.27:324][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.31-12.25.27:325][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.25.27:350][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-12.25.27:391][729]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.07.31-12.25.32:762][372]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.25.43:063][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.25.43:068][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.25.43:682][536]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/ConstructionA4BA2D3E4EE323CA1DF3C0890E6734F7.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.25.43:716][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.25.43:738][536]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData366A08C74C4BC512275DEFABB0C1E3C5.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.25.50:620][355]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush2)
+[2018.07.31-12.25.53:803][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame7)
+[2018.07.31-12.25.54:704][833]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door7)
+[2018.07.31-12.26.02:108][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.27.06:572][659]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.27.40:267][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.29.14:299][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.31-12.29.16:704][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.29.40:356][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.30.55:891][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.31.00:955][958]LogEditorViewport: Clicking Background
+[2018.07.31-12.31.01:801][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.31.11:420][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.31.24:628][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.31.27:820][ 81]LogEditorViewport: Clicking Background
+[2018.07.31-12.31.35:398][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.32.04:963][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.32.14:184][992]LogEditorViewport: Clicking Background
+[2018.07.31-12.32.14:753][ 60]LogEditorViewport: Clicking Background
+[2018.07.31-12.32.15:174][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.32.23:239][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.31-12.32.27:636][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.32.41:145][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.31-12.32.54:175][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.33.00:411][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.33.02:497][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.33.09:863][257]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush44)
+[2018.07.31-12.33.15:807][961]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.33.30:774][739]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush44)
+[2018.07.31-12.33.43:135][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.07.31-12.33.51:153][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.31-12.34.00:130][211]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2018.07.31-12.34.12:245][648]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush49)
+[2018.07.31-12.34.15:624][ 49]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush20)
+[2018.07.31-12.34.16:793][186]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush19)
+[2018.07.31-12.34.18:312][365]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Linear Stair Brush)
+[2018.07.31-12.34.20:532][627]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush50)
+[2018.07.31-12.34.21:145][697]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush21)
+[2018.07.31-12.34.22:590][867]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush51)
+[2018.07.31-12.34.26:228][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.34.26:233][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.34.26:847][296]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/ConstructionA78F5F6C4869238FE09940BA0F41390C.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.34.26:879][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.34.26:909][296]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataB3914A4540F8FAA241A60795768AF25E.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.34.34:674][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder28)
+[2018.07.31-12.34.36:946][487]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder25)
+[2018.07.31-12.34.40:019][844]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush11)
+[2018.07.31-12.34.43:068][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder28)
+[2018.07.31-12.34.50:441][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.35.06:515][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder25)
+[2018.07.31-12.35.11:329][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder22)
+[2018.07.31-12.35.15:249][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder19)
+[2018.07.31-12.35.19:384][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder24)
+[2018.07.31-12.35.23:452][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder21)
+[2018.07.31-12.35.29:367][983]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2018.07.31-12.35.30:108][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder24)
+[2018.07.31-12.35.32:542][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder27)
+[2018.07.31-12.35.36:016][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder18)
+[2018.07.31-12.35.42:712][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder30)
+[2018.07.31-12.35.45:789][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2018.07.31-12.35.49:312][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder28)
+[2018.07.31-12.35.50:102][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder15)
+[2018.07.31-12.35.52:023][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder28)
+[2018.07.31-12.35.54:002][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder25)
+[2018.07.31-12.35.57:607][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder22)
+[2018.07.31-12.36.01:391][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.36.09:090][258]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2018.07.31-12.36.10:785][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder33)
+[2018.07.31-12.36.11:456][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder28)
+[2018.07.31-12.36.12:638][666]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2018.07.31-12.36.14:424][875]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2018.07.31-12.36.14:894][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder25)
+[2018.07.31-12.36.16:103][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder22)
+[2018.07.31-12.36.30:115][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder23)
+[2018.07.31-12.36.34:870][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder26)
+[2018.07.31-12.36.38:402][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder20)
+[2018.07.31-12.36.42:310][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder17)
+[2018.07.31-12.36.49:516][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2018.07.31-12.36.52:767][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.37.27:379][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.37.55:784][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.38.03:183][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.38.09:848][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.43.58:004][298]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush37)
+[2018.07.31-12.44.01:451][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.44.04:133][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.44.04:756][998]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/ConstructionAA36A323493737BBF80F77B70156811A.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.44.04:797][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.44.04:827][998]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataB61A6FAB4C85A5DB99BF27A6F63ECCCB.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.44.34:553][480]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush37)
+[2018.07.31-12.44.37:135][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.44.49:758][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.44.49:762][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.44.50:380][273]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction14992BED4A9AF81A455C4986606C7872.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.44.50:414][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.44.50:437][273]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData771C347B4AC45009ECE413B617C8089C.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.45.15:507][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door15)
+[2018.07.31-12.45.18:309][874]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame15)
+[2018.07.31-12.45.29:604][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door15)
+[2018.07.31-12.45.37:379][974]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame15)
+[2018.07.31-12.45.39:260][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.45.57:817][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.46.30:706][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame15)
+[2018.07.31-12.46.36:061][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.47.08:505][585]Cmd: EDCALLBACK SURFPROPS
+[2018.07.31-12.47.10:518][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.47.25:193][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.48.03:529][747]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush44)
+[2018.07.31-12.48.10:299][544]LogEditorViewport: Clicking Background
+[2018.07.31-12.48.11:982][745]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush44)
+[2018.07.31-12.48.17:779][429]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush29)
+[2018.07.31-12.48.28:130][659]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush28)
+[2018.07.31-12.48.37:716][796]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush38)
+[2018.07.31-12.48.40:258][ 97]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush26)
+[2018.07.31-12.48.52:582][562]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush38)
+[2018.07.31-12.48.57:968][195]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush43)
+[2018.07.31-12.49.06:018][146]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush26)
+[2018.07.31-12.49.10:042][624]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush28)
+[2018.07.31-12.49.23:756][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder36)
+[2018.07.31-12.49.29:608][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder37)
+[2018.07.31-12.49.31:736][183]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush48)
+[2018.07.31-12.49.33:499][390]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush2)
+[2018.07.31-12.49.39:230][ 70]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush48)
+[2018.07.31-12.49.44:580][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.49.44:584][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.49.45:240][676]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction1849D5F8431EEF49DE6C90AC1FA80702.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.49.45:274][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.49.45:304][676]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData4AD2D7D74C6D8B0CBC737A9C1A55E006.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.49.50:362][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.49.50:419][284]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.31-12.49.50:435][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.49.50:435][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.31-12.49.50:435][284]PIE: New page: PIE session: Construction (31 juil. 2018 16:49:50)
+[2018.07.31-12.49.50:435][284]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Construction
+[2018.07.31-12.49.50:493][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057310s)
+[2018.07.31-12.49.50:493][284]LogAIModule: Creating AISystem for world Construction
+[2018.07.31-12.49.50:494][284]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.07.31-12.49.50:494][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Construction.Construction to /Game/Levels/UEDPIE_0_Construction.Construction (0.058369s)
+[2018.07.31-12.49.50:529][284]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.31-12.49.50:543][284]LogInit: FAudioDevice initialized.
+[2018.07.31-12.49.50:575][284]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.31-12.49.50:583][284]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Construction.Construction up for play (max tick rate 0) at 2018.07.31-14.49.50
+[2018.07.31-12.49.50:583][284]LogWorld: Bringing up level for play took: 0.007488
+[2018.07.31-12.49.50:597][284]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Construction 0,302
+[2018.07.31-12.49.50:597][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.50.03:314][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.50.03:314][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-12.50.03:357][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.31-12.50.03:357][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Construction.Construction:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Construction.Construction:PersistentLevel.Construction' with GeneratedClass '/Game/Levels/Construction.Construction_C' with ClassGeneratedBy '/Game/Levels/Construction.Construction:PersistentLevel.Construction'
+[2018.07.31-12.50.03:382][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.31-12.50.03:416][759]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.07.31-12.50.20:678][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.50.20:686][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.50.21:308][534]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction9225B980413818E4E4A1B69276AD3274.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.50.21:342][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.50.21:366][534]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData24B071F44343785DE58828A61C1B2E6C.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.51.15:071][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame15)
+[2018.07.31-12.51.28:903][  8]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush2)
+[2018.07.31-12.51.37:902][ 76]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.51.42:798][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.52.06:001][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame15)
+[2018.07.31-12.52.13:404][197]LogEditorViewport: Clicking Background
+[2018.07.31-12.52.13:935][260]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2018.07.31-12.52.22:868][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door15)
+[2018.07.31-12.52.29:077][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.52.29:081][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.52.29:749][ 21]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction8DA7232043698F19A50410993020BBA2.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.52.29:786][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.52.29:811][ 21]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData25EC443E4C41CB1FF613BA95E50761CB.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.53.03:634][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.54.16:970][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.55.29:275][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.55.37:780][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.55.37:787][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.55.38:432][776]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction999801494E457EAB2D08F183005C23D6.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.55.38:467][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.55.38:495][776]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData114A677446A1006617170DA7DF781CAE.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.55.43:664][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.55.55:702][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.56.15:944][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.56.15:948][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.56.16:580][562]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/ConstructionA10FE2A948DCB4D9D24D339EF1DC37D7.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.56.16:614][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.56.16:638][562]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltData1E0DB8DC46104A3F4C1CA58031B12432.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.56.20:641][ 34]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush50)
+[2018.07.31-12.56.27:201][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.56.48:279][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.56.48:285][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.56.48:945][120]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction54FA12A54D0B00EE9DB8829C8F15C8A7.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.56.48:984][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.56.49:007][120]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataAF95AC88462EA2C51E8C7E97D8BCE3C1.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.56.56:886][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.56.56:891][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.56.57:523][  7]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction6B73DC594840DC888847809C5E261EF6.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.56.57:555][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.56.57:579][  7]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataEFD76B04427496E6A06EFAADAEAB7FAE.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.57.07:264][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.57.18:112][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.57.23:722][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.57.46:723][305]Cmd: SELECT NONE
+[2018.07.31-12.57.47:170][358]Cmd: SELECT NONE
+[2018.07.31-12.57.50:217][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.07.31-12.57.58:708][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.31-12.57.58:714][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.31-12.57.59:355][722]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction20437AA841FC874EA8D262A4596F5EFC.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction.umap'
+[2018.07.31-12.57.59:390][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Construction_BuiltData" FILE="../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset" SILENT=true
+[2018.07.31-12.57.59:413][722]LogSavePackage: Moving '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Saved/Construction_BuiltDataF17C82464B8152B0C33F10ADE72D9E8E.tmp' to '../../../../../../Users/Maxime/Documents/GitHub/LDTest/Content/Levels/Construction_BuiltData.uasset'
+[2018.07.31-12.58.00:292][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.58.16:354][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.58.17:906][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-12.58.18:064][251]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2018.07.31-12.58.19:525][251]LogWindows: Error: === Critical error: ===
+[2018.07.31-12.58.19:526][251]LogWindows: Error: 
+[2018.07.31-12.58.19:526][251]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 611] 
+[2018.07.31-12.58.19:526][251]LogWindows: Error: Array index out of bounds: -380573451 from an array of size 0
+[2018.07.31-12.58.19:526][251]LogWindows: Error: 
+[2018.07.31-12.58.19:526][251]LogWindows: Error: 
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe1517a388 KERNELBASE.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe02a86850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde02962ec UE4Editor-Core.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde02251cb UE4Editor-Core.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde9884f05 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde9915cf9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde8f4e947 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde8f9a0ad UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde8f17162 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde8f9606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffde8f89846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe02a7ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe02a70270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe02a7f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe02a6c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe157e6cc1 USER32.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe157e6693 USER32.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe02a80646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ff7951154e5 UE4Editor.exe!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ff795125b3c UE4Editor.exe!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ff795125bba UE4Editor.exe!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ff795133dac UE4Editor.exe!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ff795135aaa UE4Editor.exe!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe17fe3034 KERNEL32.DLL!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: [Callstack] 0x00007ffe18141431 ntdll.dll!UnknownFunction []
+[2018.07.31-12.58.19:526][251]LogWindows: Error: 
+[2018.07.31-12.58.19:546][251]LogExit: Executing StaticShutdownAfterError
+[2018.07.31-12.58.19:587][251]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.07.31-12.58.19:588][251]Log file closed, 07/31/18 14:58:19
